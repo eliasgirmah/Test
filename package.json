@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "baseui": "^13.0.0",
+    "styletron-engine-atomic": "^1.5.0",
+    "styletron-react": "^6.1.0"
+  },
+  "devDependencies": {
+    "eslint-plugin-baseui": "^13.0.0"
+  }
+}
